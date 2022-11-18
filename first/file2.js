@@ -1,7 +1,10 @@
 <div>
     <h1>Hello</h1> {/* some comments */}
     <h2>Again</h2>
+
     <h3>small title</h3>
+    <h4>too small</h4>
+
     <div>
         <h2>Title</h2>
         <p>One</p>
